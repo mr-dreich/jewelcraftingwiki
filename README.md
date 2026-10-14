@@ -1,4 +1,4 @@
-# jewelcraftingwiki.github.io
+# jewelcraftingwiki
 An AI generated Jewelcrafting Wiki because there really isn't anything out there.
 
 
